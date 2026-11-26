@@ -1,0 +1,7 @@
+[worldserver]
+# Enable after moving the legacy Monturas Inmersivas Lua scripts out of lua_scripts.
+MonturasInmersivas.Enable = 0
+MonturasInmersivas.StableSpawnId = 5300684
+MonturasInmersivas.RespawnSeconds = 300
+MonturasInmersivas.AbandonedSeconds = 30
+MonturasInmersivas.FollowDistance = 2.0
